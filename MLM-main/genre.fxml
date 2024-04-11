@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="417.0" prefWidth="642.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.mlmw.HelloController">
+   <children>
+      <AnchorPane layoutX="6.0" layoutY="222.0" prefHeight="222.0" prefWidth="316.0" />
+      <AnchorPane layoutX="332.0" layoutY="222.0" prefHeight="222.0" prefWidth="316.0" />
+      <ImageView fitHeight="498.0" fitWidth="648.0" layoutX="-6.0" layoutY="-7.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../../../MLM/ge.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

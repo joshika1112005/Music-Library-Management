@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="498.0" prefWidth="648.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.mlmw.HelloController">
+   <top>
+      <HBox prefHeight="125.0" prefWidth="125.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+               </children>
+            </HBox>
+            <Label prefHeight="124.0" prefWidth="493.0" text="ARTISTS" textFill="#f5eeee">
+               <font>
+                  <Font name="Comic Sans MS" size="48.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+   </top>
+   <bottom>
+      <Pane prefHeight="508.0" prefWidth="896.0" style="-fx-background-color: #808080;" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="92.0" fitWidth="135.0" layoutX="178.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/ab.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="90.0" fitWidth="128.0" layoutX="481.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/Sid-Sriram.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="94.0" fitWidth="119.0" layoutX="177.0" layoutY="123.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/anii.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="89.0" fitWidth="175.0" layoutX="316.0" layoutY="125.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/JP.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="89.0" fitWidth="152.0" layoutX="477.0" layoutY="126.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/960x0.jpg" />
+               </image>
+            </ImageView>
+            <Label layoutX="59.0" layoutY="97.0" text="AR Rahman" textFill="#f5f0f0" />
+            <Label layoutX="209.0" layoutY="97.0" text="Alan Walker" textFill="#fff6f6" />
+            <Label layoutX="347.0" layoutY="96.0" text="Shreya Ghoshal" textFill="#fffdfd" />
+            <Label layoutX="509.0" layoutY="96.0" text="Sid Sriram" textFill="#e4dede" />
+            <Label layoutX="337.0" layoutY="330.0" text="Stephen Zechariah" textFill="#f8f6f6" />
+            <ImageView fitHeight="114.0" fitWidth="140.0" layoutX="19.0" layoutY="125.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/y1.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="84.0" fitWidth="135.0" layoutX="20.0" layoutY="243.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/pk.jpg" />
+               </image></ImageView>
+            <ImageView fitHeight="89.0" fitWidth="151.0" layoutX="17.0" layoutY="11.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/arrr.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="102.0" fitWidth="144.0" layoutX="323.0" layoutY="11.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/sh.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="87.0" fitWidth="131.0" layoutX="172.0" layoutY="243.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/hp1.jpg" />
+               </image>
+            </ImageView>
+            <Label layoutX="214.0" layoutY="330.0" text="Hip Hop" textFill="WHITE" />
+            <Label layoutX="505.0" layoutY="214.0" text="Taylor Swift" textFill="#fcfcfc" />
+            <Label layoutX="37.0" layoutY="214.0" text="Yuvan Shanker Raja" textFill="WHITE" />
+            <Label layoutX="429.0" layoutY="250.0" />
+            <Label layoutX="386.0" layoutY="277.0" />
+            <Label layoutX="48.0" layoutY="330.0" text="Pradeep Kumar" textFill="WHITE" />
+            <Label layoutX="185.0" layoutY="214.0" prefHeight="19.0" prefWidth="116.0" text="Anirudh Ravichander" textFill="WHITE" />
+            <Label layoutX="351.0" layoutY="214.0" text="G V Prakash" textFill="WHITE" />
+            <ImageView fitHeight="89.0" fitWidth="141.0" layoutX="325.0" layoutY="243.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/sz1.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="89.0" fitWidth="138.0" layoutX="475.0" layoutY="241.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/Chinmaya.jpg" />
+               </image>
+            </ImageView>
+            <Label layoutX="493.0" layoutY="330.0" text="Chinmayi Sripada" textFill="WHITE" />
+         </children>
+      </Pane>
+   </bottom>
+</BorderPane>

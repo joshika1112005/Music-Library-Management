@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #000000;">
+         <children>
+            <Button layoutX="62.0" layoutY="36.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Hayyoda" />
+            <Button layoutX="62.0" layoutY="75.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Faded" />
+            <Button layoutX="62.0" layoutY="111.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Alone" />
+            <Button layoutX="62.0" layoutY="148.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Ignite" />
+            <Button layoutX="62.0" layoutY="181.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Play" />
+            <Button layoutX="62.0" layoutY="213.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Aradhya" />
+            <Button layoutX="62.0" layoutY="245.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Nira" />
+            <Button layoutX="62.0" layoutY="280.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Srivalli" />
+            <Button layoutX="62.0" layoutY="312.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Adiyee" />
+            <Button layoutX="62.0" layoutY="346.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Maacho" />
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="38.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="77.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="113.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="150.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="183.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="215.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="247.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="282.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="314.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="62.0" layoutY="348.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <Button layoutX="212.0" layoutY="36.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="So Baby" />
+            <Button layoutX="212.0" layoutY="75.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Heeriye" />
+            <Button alignment="CENTER_RIGHT" layoutX="212.0" layoutY="111.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Oh penne" />
+            <Button layoutX="212.0" layoutY="148.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Iraiva" />
+            <Button alignment="CENTER_RIGHT" layoutX="212.0" layoutY="181.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Tum hi ho" />
+            <Button layoutX="212.0" layoutY="213.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Bae" />
+            <Button layoutX="212.0" layoutY="245.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Nenjame" />
+            <Button layoutX="212.0" layoutY="280.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Uyire" />
+            <Button layoutX="212.0" layoutY="312.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Sorry" />
+            <Button layoutX="212.0" layoutY="346.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Breakup" />
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="38.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="77.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="113.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="150.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="183.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="215.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="247.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="282.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="314.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="25.0" fitWidth="29.0" layoutX="212.0" layoutY="348.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../MLM/music_jpeg.jpg" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
